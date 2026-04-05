@@ -1,3 +1,8 @@
+/**
+ * SCENARIO: The web server attempts to resolve a minor database connection glitch internally. 
+ * When the local fix fails, it escalates the problem to a critical system failure to trigger a safe, global shutdown.
+ */
+
 #include <iostream>
 #include <stdexcept>
 
