@@ -1,12 +1,8 @@
-This is a professional, comprehensive `README.md` file designed to serve as the homepage for your GitHub repository. It includes all technical specifications, a curriculum guide, and best practices for exception handling in C++11.
+# CPP Hall of Exceptions 
 
----
+This repository is a curated curriculum designed to take present practical examples from C++ exception handling basics to advanced plus real-world hierarchical architectures. All programs are strictly compatible with **C++11**, ensuring they run across all modern and legacy compilers.
 
-# CPP Hall of Exceptions 🛡️
-
-Welcome to the **CPP Hall of Exceptions**! This repository is a curated curriculum designed to take you from C++ exception handling basics to advanced, real-world hierarchical architectures. All programs are strictly compatible with **C++11**, ensuring they run across all modern and legacy compilers.
-
-[Place holder for a welcoming "Hello World" or Exception Flow GIF]
+![hippo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXg1dmwwMmZvdTMwZWQ4c3FsYXlzZWZsbDJsb2swd3kza3ppejJkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TqiwHbFBaZ4ti/giphy.gif)
 
 ## 📋 About the Curriculum
 Exception handling is the art of making software resilient. Instead of allowing a program to crash when it encounters an error (like a lost connection or a bad input), we use the `try-catch` mechanism to recover gracefully. This repository contains 16 progressive examples that cover:
